@@ -1,3 +1,10 @@
-TEAM NAME : WELLNESS WARRIORS 
-TEAM MEMBERS : SRILAKSHMI S, ABHINAYA S, AVANTIKA S, HARINI P 
-IIIT Sri City's International Healthcare Hackathon
+# Wellness Warriors  
+
+## Team Members:  
+- Srilakshmi S  
+- Abhinaya S  
+- Avantika S  
+- Harini P  
+
+### Event:  
+**IIIT Sri City's International Healthcare Hackathon**  
